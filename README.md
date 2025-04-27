@@ -1,5 +1,5 @@
-Taskify - Manage Your Daily Tasks ✅
-Taskify is a lightweight Flask web application that allows users to easily add, edit, and view daily tasks.
+ToDoApp - Manage Your Daily Tasks ✅
+ToDoApp is a lightweight Flask web application that allows users to easily add, edit, and view daily tasks.
 It's a perfect project for beginners who want to learn about Flask, SQLAlchemy, and SQLite.
 
 🚀 Features
